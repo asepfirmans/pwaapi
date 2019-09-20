@@ -1,6 +1,6 @@
 {
-[{
-"id":1,"name":"Greater adjutant stork","category":"Aquamarine","email":"djosebury0@cafepress.com","gender":"Female","ip_address":"70.154.115.67"},
+  "products":[
+{"id":1,"name":"Greater adjutant stork","category":"Aquamarine","email":"djosebury0@cafepress.com","gender":"Female","ip_address":"70.154.115.67"},
 {"id":2,"name":"Chestnut weaver","category":"Fuscia","email":"vbaggs1@macromedia.com","gender":"Female","ip_address":"144.90.194.132"},
 {"id":3,"name":"Caracal","category":"Goldenrod","email":"mmacclinton2@utexas.edu","gender":"Female","ip_address":"37.81.159.175"},
 {"id":4,"name":"Cockatoo, red-tailed","category":"Yellow","email":"lduer3@rediff.com","gender":"Female","ip_address":"18.9.142.172"},
